@@ -1,8 +1,8 @@
 #THE TOOL CREATED BY SHOWROB
 
-#King Of Criminal - The Legend of Leader
+#Best Spamming Team
 #FB : https://www.facebook.com/its.showrob.bbz
-#PAGE : Criminal Showrob 
+#PAGE : Showrob Chowdhury 
 #Programer Showrob Khan
 #𝐖𝐇𝐀𝐓'𝐒 𝐀𝐏𝐏 : +8801739237334
 W = '\033[97;1m' 
@@ -108,8 +108,8 @@ logo = ("""\033[1;36m
   \___ \|  __  | |  | |\ \/  \/ / |  _  /| |  | |  _ <
   ____) | |  | | |__| | \  /\  /  | | \ \| |__| | |_) |
  |_____/|_|  |_|\____/   \/  \/   |_|  \_\\____/|____/
-                                                  
-──────────────────────  \033
+
+  \033
 \33[1;32mWelcome To Showrob Tools
 
 
@@ -122,13 +122,13 @@ logo = ("""\033[1;36m
 ╔════════════════════════════════════════╗
 
 ║\33[1;32m[↦] 𝙰𝚄𝚃𝙷𝙾𝚁     : Showrob Khan
-║\33[1;32m[↦] 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺   : Md. Usman Miah
+║\33[1;32m[↦] 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺   : SHOWROB CHOWDHURY
 ║\33[1;32m[↦] 𝙶𝙸𝚃𝙷𝚄𝙱     : SHOWROB-404
 
 ║\33[1;32m[↦] 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙   : +8801739237334
 ║\33[1;32m[↦] 𝚂𝚝𝚊𝚝𝚞𝚜     : 𝙵𝚛𝚎𝚎
 
-║\33[1;32m[↦] 𝚃𝙴𝙰𝙼       : King Of Criminal 
+║\33[1;32m[↦] 𝚃𝙴𝙰𝙼       : Best Spamming Team
 
 ║\33[1;32m[↦] 𝚅𝙴𝚁𝚂𝙸𝙾𝙽    : 1.0
 
@@ -180,7 +180,7 @@ class Main:
 
 		elif syed in ["1", "01"]:
 
-			os.system('xdg-open https://www.facebook.com/its.showrob.bbz/')
+			os.system('xdg-open https://www.facebook.com/its.me.showrob.okh/')
 
 			print("")
 
@@ -232,11 +232,11 @@ class Main:
 
 		if DEVIL in ["3", "03"]:
 
-			os.system('xdg-open https://www.facebook.com/its.showrob.bbz/')
+			os.system('xdg-open https://www.facebook.com/its.me.showrob.okh/')
 
 		if DEVIL in ["4", "04"]:
 
-			os.system('xdg-open https://facebook.com/groups/king.of.criminal.legend/')
+			os.system('xdg-open https://facebook.com/groups/best.spamming.of.hacker.cyber.bd.team/')
 
 		if DEVIL in ["5",  "05"]:
 
@@ -274,7 +274,7 @@ class Main:
 
 				self.id.append(__+str(_))
 
-			os.system('xdg-open https://www.facebook.com/its.showrob.bbz')
+			os.system('xdg-open https://www.facebook.com/its.me.showrob.okh')
 
 			os.system('clear')
 
